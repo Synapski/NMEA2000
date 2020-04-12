@@ -9,4 +9,7 @@ mongoose_os_version: ${mos.version}
 sources:
   - src
 
+includes:
+  - include
+
 manifest_version: 2017-09-29
