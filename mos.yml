@@ -1,0 +1,12 @@
+author: Timo Lappalainen, Kave Oy, www.kave.fi
+description: NMEA2000 library for C++
+version: 1.0
+
+libs_version: ${mos.version}
+modules_version: ${mos.version}
+mongoose_os_version: ${mos.version}
+
+sources:
+  - src
+
+manifest_version: 2017-09-29
